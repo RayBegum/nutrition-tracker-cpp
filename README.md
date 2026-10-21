@@ -42,7 +42,7 @@ Makefile
 ```
 
 ## Note
-Starter goals (2000 kcal, 50 g protein, 28 g fiber) are only general defaults. Set your own goals.
+Starter goals (2000 kcal, 90 g protein, 28 g fiber) are only general defaults. Set your own goals.
 This app is a tracking tool, not medical or dietary advice.
 
 ## Author
